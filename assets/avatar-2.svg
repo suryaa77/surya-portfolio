@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80" fill="none">
+  <defs>
+    <linearGradient id="a2" x1="80" y1="0" x2="0" y2="80"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#6366f1"/></linearGradient>
+  </defs>
+  <circle cx="40" cy="40" r="40" fill="url(#a2)"/>
+  <text x="40" y="46" text-anchor="middle" fill="white" font-family="system-ui,sans-serif" font-size="22" font-weight="700">PR</text>
+</svg>
